@@ -1,0 +1,16 @@
+those who signup we register their information
+in a database
+we can login using the information
+
+
+there will be the search bar
+
+once we insert the required category of club in the search bar then particular  category will be rendering in the DOM
+
+each category consists of name of club short description
+a photo
+
+
+
+a bar shows category of clubs in search page all the time ..
+ 

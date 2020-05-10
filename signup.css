@@ -1,0 +1,133 @@
+body{
+    background-color: rgb(229, 238, 238,0.5);
+  }
+  * {
+    margin:0;
+    padding:0;
+    
+  }
+  #right-head{
+    width: 40%;
+    float: right;
+    
+  }
+  #left-head{
+    width: 60%;
+    float: left;
+    text-align: center;
+  }
+  #header{
+    min-height: 20vh;
+    background-color: rgb(163, 177, 190,0.5);
+   
+  }
+  #header button{
+    border: solid black 2px;
+    float: right;
+    
+    margin-top: 115px;
+  }
+  
+ 
+  
+  #signup-container{
+     width: 40%;
+    margin: 10px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: middle;
+    padding-top:2%;
+    
+    background-color: rgb(207, 200, 200,0.5);
+    
+    min-height: 60vh;
+  }
+  
+#signup-head{
+  text-align: center;
+  padding: 40px;
+}
+#form-control{
+  border:solid black 2px;
+  padding: 20px;
+  margin: 20px;
+  min-height: 25vh;
+  padding-top: 40px;
+  padding-bottom: 0px;
+  
+}
+#form-control-login{
+  border:solid black 2px;
+  padding: 20px;
+  margin: 20px;
+  min-height: 18vh;
+  padding-top: 40px;
+  
+  
+}
+#fname,#email,#pnumber{
+  
+  display: inline-block;
+  width: 25%;
+  margin-bottom: 10px;
+  padding: 0px;
+  
+  
+}
+
+#fname-input,#email-input,#pn-input{
+  display: inline-block;
+  width: 60%;
+ 
+  margin: 1.9px;
+  border: solid black 2px;
+  padding: 3px;
+  
+}
+#signup{
+  width: 40%;
+  margin-top: 30px;
+  border: solid black 2px;
+  padding: 5px;
+  margin-left: 20%;
+  margin-right: 25%;
+  
+}
+
+input{
+  
+  width: 60%;
+  float: right;
+}
+
+  li{
+    list-style: none;
+    
+  }
+  #right-container{
+    float: right;
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(163, 177, 190,0.5);
+    
+    
+  }
+  #footer{
+    background-color: rgb(163, 177, 190,0.5);
+    min-height: 20vh;
+  }
+  #left-footer{
+    width: 50%;
+    float: left;
+    padding: 20px;
+    
+  }
+  #right-footer{
+    width: 30%;
+    float: right;
+    padding: 20px;
+    
+  }
